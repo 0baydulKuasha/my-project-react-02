@@ -1,0 +1,12 @@
+.Country{
+    border: 2px solid gray;
+    padding: 20;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.Flag-img{
+    width: 100%;
+    height: 100px;
+    borderRadius: 30px
+}
